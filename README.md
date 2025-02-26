@@ -6,8 +6,10 @@ It's still a toy example, but at least there is some separation of concerns and 
 [ApplicationTest](src/test/ApplicationTest.kt) is perhaps the most comprehensive integration test. 
 
 ## Structure 
-The structure is strictly object oriented as I felt this would a design that most would be familiar with.
-I can do functional implementation as a separate exercise. 
+The structure is strictly object oriented as I felt this may be a familiar approach for most.
+I can do functional implementation as a separate exercise.
+
+Here is the sequence diagram for the flow:
 
 ```mermaid 
 sequenceDiagram
